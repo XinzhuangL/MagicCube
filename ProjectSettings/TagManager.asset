@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Corner Piece 4
+  - Core
+  - Edge Piece 3
+  - Edge Piece 10
+  - Center Piece 2
+  - Corner Piece 1
+  - Trail
+  - Center Piece 4
+  - Center Piece 1
+  - Center Piece 3
+  - Edge Piece 2
+  - Edge Piece 7
+  - Corner Piece 3
+  - Corner Piece 2
+  - Corner Piece 7
+  - Edge Piece 1
+  - Edge Piece 4
+  - Edge Piece 12
+  - Edge Piece 6
+  - Edge Piece 9
+  - Corner Piece 5
+  - Corner Piece 8
+  - Center Piece 6
+  - Edge Piece 8
+  - Corner Piece 6
+  - Edge Piece 5
+  - Center Piece 5
+  - Edge Piece 11
+  - RubikCube
+  - ColorCube
+  - ColorT
+  - bottom
+  - up
+  - left
+  - right
+  - front
+  - back
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
